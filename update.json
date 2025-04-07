@@ -1,0 +1,7 @@
+{
+	"versionName": "2.4.1",
+	"versionCode": 109,
+    "appUrl": "https://danielleitelima.github.io/resume/binary/app-2.4.1.apk",
+    "isMandatory": true,
+	"notes": "Adds automatic updates"
+}
